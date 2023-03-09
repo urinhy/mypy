@@ -1,1 +1,3 @@
-print "HELLO, GIT!"
+print "Hello, Git!"
+
+print datetime.now()
